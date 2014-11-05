@@ -1,7 +1,7 @@
 SpreeCustomFooterFrontend
 =========================
 
-Introduction goes here.
+Extensión de spree que permite personalizar el pie de pagina del frontend colocando un enlace hacia la pagina de bestBOON C.A.
 
 Installation
 ------------
@@ -36,4 +36,4 @@ Simply add this require statement to your spec_helper:
 require 'spree_custom_footer_frontend/factories'
 ```
 
-Copyright (c) 2014 [name of extension creator], released under the New BSD License
+Copyright (c) 2014 bestBOON C.A., released under the New BSD License
